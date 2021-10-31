@@ -17,7 +17,7 @@ WEB3_INFURA_PROJECT_ID='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 ```
 
 ## Example
-![Example](Images\screenshot.png)
+![Example](Images/screenshot.png)
 
 ## Contributors
 All code writen by Remy Dillenseger
